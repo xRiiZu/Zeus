@@ -1,4 +1,4 @@
-                                                                        Welcome to Project Zeus!
+                                                Welcome to Project Zeus!
 - This is a basic source code for a Discord bot!
 - If you use this bot please give credit where it is due! 
 - If you have any questions about the bot you can contact me on discord @ RiiZu#6305
