@@ -23,8 +23,7 @@
 -   4. For Specific User ID: Find the user on the list of users to the right -> Right click choosen user -> Copy ID
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -       Terms of Use
+-   -   If this source code is used in your project do NOT remove any type of tagging that has my Discord Username(RiiZu#6305)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
--   If this source code is used in your project do NOT remove any type of tagging that has my Discord Username(RiiZu#6305)
--   
 
--           © RiiZu 2020 (Discord: RiiZu#6305, Instagram: itz_riizu, Twitter: iTz_RiiZu)   
+-               © RiiZu 2020 (Discord: RiiZu#6305, Instagram: itz_riizu, Twitter: iTz_RiiZu)   
